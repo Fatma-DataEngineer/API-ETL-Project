@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": 1001,
+    "customer_email": "fatma@ex.com",
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "quantity": 1,
+    "order_date": "2025-08-01"
+  },
+  {
+    "order_id": 1002,
+    "customer_email": "ahmed@ex.com",
+    "product_name": "Mouse",
+    "category": "Accessories",
+    "price": 75,
+    "quantity": 2,
+    "order_date": "2025-08-02"
+  }
+]
+
+
+
