@@ -1,0 +1,21 @@
+[
+  {
+    "order_id": 1003,
+    "customer_email": "salma@ex.com",
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "price": 850,
+    "quantity": 1,
+    "order_date": "2025-08-03"
+  },
+  {
+    "order_id": 1004,
+    "customer_email": "mohamed@ex.com",
+    "product_name": "Keyboard",
+    "category": "Accessories",
+    "price": 150,
+    "quantity": 1,
+    "order_date": "2025-08-04"
+  }
+]
+
