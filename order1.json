@@ -18,8 +18,8 @@
     "price": 75,
     "quantity": 2,
     "order_date": "2025-08-02"
-  },
-  {
+ },
+ {
     "order_id": 1003,
         "customer_name": "Mona",
         "customer_email": "mona@ex.com",
@@ -50,6 +50,7 @@
         "order_date": "2025-08-05"
     }
 ]
+
 
 
 
