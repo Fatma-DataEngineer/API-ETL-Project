@@ -1,6 +1,7 @@
 [
   {
     "order_id": 1001,
+    "customer_name": "Fatma",
     "customer_email": "fatma@ex.com",
     "product_name": "Laptop",
     "category": "Electronics",
@@ -10,6 +11,7 @@
   },
   {
     "order_id": 1002,
+    "customer_name": "Ahmed",
     "customer_email": "ahmed@ex.com",
     "product_name": "Mouse",
     "category": "Accessories",
@@ -48,6 +50,7 @@
         "order_date": "2025-08-05"
     }
 ]
+
 
 
 
