@@ -16,8 +16,39 @@
     "price": 75,
     "quantity": 2,
     "order_date": "2025-08-02"
-  }
+  },
+  {
+    "order_id": 1003,
+        "customer_name": "Mona",
+        "customer_email": "mona@ex.com",
+        "product_name": "Smartphone",
+        "category": "Electronics",
+        "price": 950,
+        "quantity": 1,
+        "order_date": "2025-08-03"
+    },
+    {
+        "order_id": 1004,
+        "customer_name": "Tarek",
+        "customer_email": "tarek@ex.com",
+        "product_name": "Keyboard",
+        "category": "Accessories",
+        "price": 150,
+        "quantity": 1,
+        "order_date": "2025-08-04"
+    },
+    {
+        "order_id": 1005,
+        "customer_name": "Lina",
+        "customer_email": "lina@ex.com",
+        "product_name": "Desk Lamp",
+        "category": "Home",
+        "price": 180,
+        "quantity": 2,
+        "order_date": "2025-08-05"
+    }
 ]
+
 
 
 
