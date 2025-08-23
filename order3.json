@@ -1,6 +1,6 @@
-[
-  {
-    "order_id": 1005,
+[{
+    "order_id": 1012,
+    "customer_name": "Nour",
     "customer_email": "nour@ex.com",
     "product_name": "Tablet",
     "category": "Electronics",
@@ -9,12 +9,65 @@
     "order_date": "2025-08-05"
   },
   {
-    "order_id": 1006,
+    "order_id": 1013,
+    "customer_name": "Hassan",
     "customer_email": "hassan@ex.com",
     "product_name": "Charger",
     "category": "Accessories",
     "price": 40,
     "quantity": 3,
     "order_date": "2025-08-06"
-  }
+  },
+   {
+        "order_id": 1014,
+        "customer_name": "Hassan",
+        "customer_email": "hassan@ex.com",
+        "product_name": "Gaming Headset",
+        "category": "Accessories",
+        "price": 220,
+        "quantity": 1,
+        "order_date": "2025-08-14"
+    },
+    {
+        "order_id": 1015,
+        "customer_name": "Dina",
+        "customer_email": "dina@ex.com",
+        "product_name": "Yoga Mat",
+        "category": "Fitness",
+        "price": 130,
+        "quantity": 2,
+        "order_date": "2025-08-15"
+    },
+    {
+        "order_id": 1016,
+        "customer_name": "Mahmoud",
+        "customer_email": "mahmoud@ex.com",
+        "product_name": "Water Bottle",
+        "category": "Fitness",
+        "price": 60,
+        "quantity": 3,
+        "order_date": "2025-08-16"
+    },
+  {
+        "order_id": 1017,
+        "customer_name": "Rania",
+        "customer_email": "rania@ex.com",
+        "product_name": "Cookware Set",
+        "category": "Home",
+        "price": 520,
+        "quantity": 1,
+        "order_date": "2025-08-12"
+   },
+    {
+        "order_id": 1017,
+        "customer_name": "Sara",
+        "customer_email": "sara@ex.com",
+        "product_name": "Wall Clock",
+        "category": "Home",
+        "price": 200,
+        "quantity": 1,
+        "order_date": "2025-08-17"
+    }
+
 ]
+
