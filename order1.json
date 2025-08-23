@@ -11,8 +11,8 @@
   },
   {
     "order_id": 1002,
-    "customer_name": "Ahmed",
-    "customer_email": "ahmed@ex.com",
+    "customer_name": "Yesin",
+    "customer_email": "yesin@ex.com",
     "product_name": "Mouse",
     "category": "Accessories",
     "price": 75,
@@ -50,6 +50,7 @@
         "order_date": "2025-08-05"
     }
 ]
+
 
 
 
