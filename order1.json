@@ -1,7 +1,7 @@
 [
-  {
+ {
     "order_id": 1001,
-    "customer_name": "Fatma",
+    "customer_name":"Fatma",
     "customer_email": "fatma@ex.com",
     "product_name": "Laptop",
     "category": "Electronics",
@@ -11,15 +11,15 @@
   },
   {
     "order_id": 1002,
-    "customer_name": "Yesin",
+    "customer_name":"Yesin",
     "customer_email": "yesin@ex.com",
     "product_name": "Mouse",
     "category": "Accessories",
     "price": 75,
     "quantity": 2,
     "order_date": "2025-08-02"
- },
- {
+  },
+  {
     "order_id": 1003,
         "customer_name": "Mona",
         "customer_email": "mona@ex.com",
@@ -50,10 +50,3 @@
         "order_date": "2025-08-05"
     }
 ]
-
-
-
-
-
-
-
