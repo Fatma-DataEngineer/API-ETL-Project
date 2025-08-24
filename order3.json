@@ -1,4 +1,5 @@
-[{
+[
+  {
     "order_id": 1012,
     "customer_name": "Nour",
     "customer_email": "nour@ex.com",
@@ -59,7 +60,7 @@
         "order_date": "2025-08-12"
    },
     {
-        "order_id": 1017,
+        "order_id": 1018,
         "customer_name": "Sara",
         "customer_email": "sara@ex.com",
         "product_name": "Wall Clock",
@@ -68,6 +69,4 @@
         "quantity": 1,
         "order_date": "2025-08-17"
     }
-
 ]
-
