@@ -1,7 +1,7 @@
 [
   {
-    "order_id": 1003,
-     "customer_name": "Salma",
+    "order_id": 1006,
+    "customer_name": "Salma",
     "customer_email": "salma@ex.com",
     "product_name": "Smartphone",
     "category": "Electronics",
@@ -10,8 +10,8 @@
     "order_date": "2025-08-03"
   },
   {
-    "order_id": 1004,
-     "customer_name": "Mohamed",
+    "order_id": 1007,
+    "customer_name": "Mohamed",
     "customer_email": "mohamed@ex.com",
     "product_name": "Keyboard",
     "category": "Accessories",
@@ -60,7 +60,3 @@
         "order_date": "2025-08-11"
     }
 ]
-
-
-
-
